@@ -19,7 +19,7 @@
 
 ## 📸 Видео
 
-<iframe src="https://streamable.com/e/tnboha" width="100%" height="100%" frameborder="0" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+https://streamable.com/e/tnboha
 
 ---
 
