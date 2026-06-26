@@ -42,7 +42,7 @@ LINUX
 ```bash
 pip install PyQt5 pyautogui mediapipe opencv-python numpy
 ```
-WINDOWS - нажми в zip файле на start.py
+WINDOWS - нажми в zip файле на install.py
 
 ### Шаг 3. Запустите приложение
  LINUX 
