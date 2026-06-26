@@ -19,11 +19,8 @@
 
 ## 📸 Скриншоты
 
-![Окно приложения](screenshots/app_window.png)
+![Окно приложения](screenshots/app_window.mp4)
 *Прозрачное окно с отображением скелета и информационной панелью*
-
-![Работа жеста](screenshots/gesture.png)
-*Удержание пальцев для перемещения курсора*
 
 ---
 
@@ -36,23 +33,23 @@
 
 ### Шаг 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/yourusername/gesture-mouse-control.git
-cd gesture-mouse-control
+git clone https://github.com/belyashoficial/gesture-control.git
+cd gesture-control
 ```
 
 ### Шаг 2. Установите зависимости
+LINUX
 ```bash
-pip install -r requirements.txt
+pip install PyQt5 pyautogui mediapipe opencv-python numpy
 ```
-Если файла `requirements.txt` нет, установите вручную:
-```bash
-pip install opencv-python mediapipe pyautogui PyQt5 numpy
-```
+WINDOWS - нажми в zip файле на start.py
 
 ### Шаг 3. Запустите приложение
-```bash
+ LINUX 
+ ```bash
 python main.py
 ```
+ WINDOWS - нажми в zip файле на start.py
 
 ---
 
@@ -151,7 +148,3 @@ self.setGeometry(10, screen.height() - self.window_height - 10, ...)
 ## ✉️ Контакты
 
 Если у вас есть вопросы или предложения, создайте **Issue** в репозитории или напишите автору.
-
----
-
-**Enjoy controlling your mouse with just a wave of your hand!** 🖐️🖱️
