@@ -19,7 +19,7 @@
 
 ## 📸 Видео
 
-<video src="main/2026-06-26%2018-45-55.mp4" controls width="100%"></video>
+<video src="2026-06-26%2018-45-55.mp4" controls width="100%"></video>
 
 
 ---
