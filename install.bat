@@ -1,0 +1,1 @@
+pip install PyQt5 pyautogui mediapipe opencv-python numpy
